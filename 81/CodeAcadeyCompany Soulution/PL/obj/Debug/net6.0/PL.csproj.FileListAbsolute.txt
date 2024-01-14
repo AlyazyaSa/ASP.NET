@@ -1,0 +1,13 @@
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\bin\Debug\net6.0\PL.deps.json
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\bin\Debug\net6.0\PL.runtimeconfig.json
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\bin\Debug\net6.0\PL.dll
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\bin\Debug\net6.0\PL.pdb
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.dll
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\refint\PL.dll
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.pdb
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\PL.genruntimeconfig.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CodeAcadeyCompany Soulution\PL\obj\Debug\net6.0\ref\PL.dll

@@ -1,0 +1,16 @@
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.csproj.AssemblyReference.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.RazorAssemblyInfo.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.RazorAssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.csproj.AssemblyReference.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.RazorAssemblyInfo.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany\obj\Debug\net6.0\CODEacademyCompany.RazorAssemblyInfo.cs

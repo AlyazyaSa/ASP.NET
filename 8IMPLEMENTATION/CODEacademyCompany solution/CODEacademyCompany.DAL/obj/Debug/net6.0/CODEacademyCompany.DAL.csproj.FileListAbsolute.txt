@@ -1,0 +1,10 @@
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.csproj.AssemblyReference.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\81\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.csproj.AssemblyReference.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.AssemblyInfoInputs.cache
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.AssemblyInfo.cs
+C:\Users\Asm__\Desktop\ASP.Net\8IMPLEMENTATION\CODEacademyCompany solution\CODEacademyCompany.DAL\obj\Debug\net6.0\CODEacademyCompany.DAL.csproj.CoreCompileInputs.cache

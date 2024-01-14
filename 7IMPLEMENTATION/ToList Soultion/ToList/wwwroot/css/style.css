@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+body {
+    background-color: rgba(223, 227, 196, 0.615);
+    background: url(../image/clock.webp);
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center; 
+    background-repeat: no-repeat;
+
+}
+
+.container {
+    max-width: 800px;
+    margin: 60px auto;
+    padding: 30px;
+    border: 1px solid #c9b9a8;
+}
+
+h1 {
+    background-color: #f9c27e4a;
+    color: #ffffffc3;
+    text-align: center;
+    padding: 10px 0;
+}
+
+form {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.task-item{
+    max-width: 260px;
+    height: 25px;
+    margin: 5px 0;
+    background-color: #ffff;
+    border-radius: 5px;
+    box-shadow: 0 2px rgba(0,0,0.2);
+    cursor: pointer;
+    padding-left: 10px;
+    padding-top: 3px;
+    animation: animateIn 0.3s ease;
+}
+
+@keyframes animateIn {
+    0%{
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.completed{
+    text-decoration: line-through;
+    background-color: rgba(146, 151, 120, 0.729);
+}
+
+button {
+    padding: 10px;
+    background-color: #3e322fde;
+    color: #f7eded;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffffff6c;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #aba2a2dd;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+li:hover {
+    background-color: #756161;
+}
